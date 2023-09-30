@@ -1,2 +1,4 @@
 # pemogramaan-html
-lab1_tag_dasar html
+Muhammad Dzikri Hidayat
+312210136
+TI 22 A1
